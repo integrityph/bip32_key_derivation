@@ -19,7 +19,7 @@ dependencies:
   secp256k1_ffi:
     git: 
       url: https://github.com/integrityph/secp256k1_ffi
-      ref: v0.1.1
+      ref: v0.1.2
 
 dev_dependencies:
   flutter_test:
